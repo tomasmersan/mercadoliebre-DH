@@ -656,13 +656,13 @@ footer
 
     .contenedor-ultima-vista, .contenedor-descripciones
     {
-        max-width: 1283px;
+        max-width: 1600px;
         flex-wrap: wrap;
     }
 
     .contenedor-ofertas
     {
-        max-width: 1283px;
+        max-width: 1600px;
         flex-wrap: wrap;
     }
 
